@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\visual studio\lamquenvisualstudio\Bai11\Bai11\main.cpp(11,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bai11.vcxproj -> D:\visual studio\lamquenvisualstudio\Bai11\Debug\Bai11.exe

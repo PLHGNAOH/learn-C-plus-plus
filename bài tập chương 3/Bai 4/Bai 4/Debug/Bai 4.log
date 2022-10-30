@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\visual studio\bài tập chương 3\Bai 4\Bai 4\Source.cpp(42,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\visual studio\bài tập chương 3\Bai 4\Bai 4\Source.cpp(43,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai 4.vcxproj -> D:\visual studio\bài tập chương 3\Bai 4\Debug\Bai 4.exe

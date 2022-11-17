@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\my-github\learn-c-plus-plus\Bai10\Tinh_T(x,n)=x^n\Tinh_T(x,n)=x^n\main.cpp(9,17): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Tinh_T(x,n)=x^n.vcxproj -> D:\my-github\learn-c-plus-plus\Bai10\Tinh_T(x,n)=x^n\x64\Debug\Tinh_T(x,n)=x^n.exe

@@ -1,3 +1,4 @@
+//Tinh S(n)=x + x^2/2! + x^3/3! +...+x^n/n!
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>

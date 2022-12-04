@@ -30,7 +30,7 @@ int main()
 		goto Hoangdeptrai;
 
 	}
-	_getch();
+	_getch();	
 	return 0;
 
 

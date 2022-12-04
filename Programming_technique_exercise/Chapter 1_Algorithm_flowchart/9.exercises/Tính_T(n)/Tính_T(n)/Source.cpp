@@ -3,7 +3,8 @@
 #include<conio.h>
 int main()
 {
-	int n, i, t;
+	int n, i;
+	long t;
 	printf("\nNhap n ");
 	scanf_s("%d", &n);
 	t = 1;
@@ -13,7 +14,7 @@ int main()
 		t = t * i;
 		i++;
 	}
-	printf("\nT=%d", t);
+	printf("\nT=%ld", t);
 
 
 	_getch();

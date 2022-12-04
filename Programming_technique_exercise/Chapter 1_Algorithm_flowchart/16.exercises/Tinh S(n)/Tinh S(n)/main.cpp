@@ -18,7 +18,7 @@ int main()
 		result = result + ((pow(x, i) / m));
 
 	}
-	printf("\nResult is %f ", result);
+	printf("\nResult is %.1f ", result);
 
 	_getch();
 	return 0;

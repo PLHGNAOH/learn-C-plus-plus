@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming course\funtions\change character\change character\change character\Source.cpp(6,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\my-github\learn-c-plus-plus\Programming course\funtions\change character\change character\change character\Source.cpp(6,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\my-github\learn-c-plus-plus\Programming course\funtions\change character\change character\change character\Source.cpp(6,10): message : the missing variadic argument 2 is required by format string '%c'
+D:\my-github\learn-c-plus-plus\Programming course\funtions\change character\change character\change character\Source.cpp(6,10): message : this argument is used as a buffer size
+  change character.vcxproj -> D:\my-github\learn-c-plus-plus\Programming course\funtions\change character\change character\x64\Debug\change character.exe

@@ -24,7 +24,7 @@
 		
 
 	 }
-	 printf("\nResult is %f",S );
+	 printf("\nResult is %.2f",S );
  
  
  

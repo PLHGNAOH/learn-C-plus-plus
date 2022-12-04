@@ -6,7 +6,7 @@ int main()
 	long s;
 	printf("\nNhap n ");
 	scanf_s("%d", &n);
-	s = 0;
+	s = 0;	
 	i = 1;
 	while (i <= n)
 	{

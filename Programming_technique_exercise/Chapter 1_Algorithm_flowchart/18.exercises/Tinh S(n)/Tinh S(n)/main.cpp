@@ -32,7 +32,8 @@ int main()
         S = S + T / N;
         i++;
     }
-    printf("\nTong la %f", S);
+    printf("\nTong la %.2f", S);
     _getch();
     return 0;
+
 }

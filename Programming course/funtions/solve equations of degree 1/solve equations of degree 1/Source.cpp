@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void Nhap(double &x)
+void Nhap(double& x)
 {
 	printf("\nenter a value ");
 	scanf_s("%lf", &x);
@@ -20,7 +20,7 @@ void  GPTB1(double a, double b)
 	}
 	else
 	{
-		double x = -b / a ;
+		double x = -b / a;
 		printf("\nResult is %lf ", x);
 	}
 }

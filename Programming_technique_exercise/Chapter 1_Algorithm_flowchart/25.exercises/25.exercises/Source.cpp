@@ -8,15 +8,10 @@ int main()
 	scanf_s("%d", &n);
 	for (int i = 1; i <= n; i++)
 	{
-		if (n % i == 0 )
+		if (n % i == 0 && i % 2 == 0)
 		{
-			if (i % 2 == 0)
-			{
-				S = S + i;
-			}
-			
+				S = S + i;			
 		}
-	
 	}
 	printf("\nS=%d", S);
 

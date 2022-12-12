@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming_technique_exercise\Chapter 4_Funtion structures\117.exercises\117.exercises\Source.cpp(19,9): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  117.exercises.vcxproj -> D:\my-github\learn-c-plus-plus\Programming_technique_exercise\Chapter 4_Funtion structures\117.exercises\x64\Debug\117.exercises.exe

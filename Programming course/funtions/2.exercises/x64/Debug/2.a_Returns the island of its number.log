@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\my-github\learn-c-plus-plus\Programming course\funtions\2. Repeat statement chapter exercises\2.a_Returns the island of its number\2.a_Returns the island of its number\Source.cpp(12,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\my-github\learn-c-plus-plus\Programming course\funtions\2. Repeat statement chapter exercises\2.a_Returns the island of its number\2.a_Returns the island of its number\Source.cpp(16,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  2.a_Returns the island of its number.vcxproj -> D:\my-github\learn-c-plus-plus\Programming course\funtions\2. Repeat statement chapter exercises\2.a_Returns the island of its number\x64\Debug\2.a_Returns the island of its number.exe

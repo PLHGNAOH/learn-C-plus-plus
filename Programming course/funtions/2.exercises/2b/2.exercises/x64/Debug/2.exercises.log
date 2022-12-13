@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2b\2.exercises\Source.cpp(18,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2b\2.exercises\Source.cpp(22,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  2.exercises.vcxproj -> D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2b\x64\Debug\2.exercises.exe

@@ -1,1 +1,1 @@
-D:\my-github\learn-c-plus-plus\Programming course\10.exercises\x64\Debug\10.exercises.exe
+D:\my-github\learn-c-plus-plus\Programming course\Chapter1\10.exercises\x64\Debug\10.exercises.exe

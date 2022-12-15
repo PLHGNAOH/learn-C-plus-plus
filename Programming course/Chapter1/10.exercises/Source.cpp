@@ -1,25 +1,18 @@
-#include <stdio.h>
-#include <conio.h>
+#include<stdio.h>
+#include<conio.h>
 #include<math.h>
-
+#define pi 3.14;
 int main()
 {
-    int n;
-    int SoNut = 0;
-    
-    
-    printf("Nhap bien so xe : ");
-    scanf_s("%d", &n);
+	float r,cv,dt;
+	printf("\nNhap ban kinh: ");
+	scanf_s("%f", &r);
 
-    int sochuso = log10(double(n)) + 1;
-    printf("\nXe cua ban co %d chu so va co so nut la \t ", sochuso);
+	cv = r * 2 * pi;
+	dt = pow(r, 2) * pi;
 
-    while (n > 0)
-    {
-        SoNut +=  n % 10;
-        n = n / 10;
-    }
-    printf(" %d\n", SoNut % 10);
-    _getch();
-    return 0;
+	printf("\nChu vi va dien tich hinh tron lan luot la %.2f ,%.2f ", cv, dt);
+
+	_getch();
+	return 0;
 }

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming course\Chapter1\10.exercises\Source.cpp(12,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\my-github\learn-c-plus-plus\Programming course\Chapter1\10.exercises\Source.cpp(13,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  10.exercises.vcxproj -> D:\my-github\learn-c-plus-plus\Programming course\Chapter1\x64\Debug\10.exercises.exe

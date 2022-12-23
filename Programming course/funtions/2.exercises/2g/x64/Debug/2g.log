@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2g\Source.cpp(21,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2g\Source.cpp(31): warning C4715: 'checksquarenumber': not all control paths return a value
+  2g.vcxproj -> D:\my-github\learn-c-plus-plus\Programming course\funtions\2.exercises\2g\x64\Debug\2g.exe

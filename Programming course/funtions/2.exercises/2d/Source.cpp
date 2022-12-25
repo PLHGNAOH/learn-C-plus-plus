@@ -20,9 +20,10 @@ int checkprimes(int n)
 	if (n < 2)
 	{
 		printf("\nkhong la so nguyen to ");
+		return 0;
 	}
 	int count = 0;
-	for (int i = 2; i < n; i++)
+	for (int i = 2; i = n; i++)
 	{
 		if (n % i == 0)
 		{

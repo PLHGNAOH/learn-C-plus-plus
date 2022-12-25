@@ -40,14 +40,14 @@ int sum(int n)
 		}
 		
 	}
-	printf("\nsum=%d", s);
 	return s;
 }
 int main()
 {
-	int a;
+	int a, s;
 	enter(a);
-	sum(a);
+	s = checksquarenumber(a);
+	printf("\n%d", s);
 	_getch();
 	return 0;
 }

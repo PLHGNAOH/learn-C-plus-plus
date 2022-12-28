@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\Programming_technique_exercise\chuong3\bai86-trang26\Source.cpp(12,9): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  bai86-trang26.vcxproj -> D:\my-github\learn-c-plus-plus\Programming_technique_exercise\chuong3\bai86-trang26\x64\Debug\bai86-trang26.exe
